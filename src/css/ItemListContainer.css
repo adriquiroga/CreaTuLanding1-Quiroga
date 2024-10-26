@@ -1,0 +1,12 @@
+.mi-contenedor {  
+  padding: 20px;
+  text-align: center;
+  height: 700px;
+}
+.mi-contenedor h1 {
+  font-size: 30px; 
+  color:#000000;   
+}
+.mi-contenedor p {
+  font-size: 20px; 
+}
